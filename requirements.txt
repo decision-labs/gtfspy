@@ -12,3 +12,4 @@ geojson>=2.0.0
 shapely
 pyproj
 matplotlib-scalebar==0.6.1
+pillow>=8.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
